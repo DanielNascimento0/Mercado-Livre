@@ -80,8 +80,6 @@ Nesta atividade, nosso grupo representa a equipe responsável pelo desenvolvimen
 
 ### Integrantes
 
-* Nome do integrante 1
-* Nome do integrante 2
-* Nome do integrante 3
-* Nome do integrante 4
-* Nome do integrante 5
+* Daniel Nascimento
+* Matheus
+* Nicolas Pereira
