@@ -81,5 +81,4 @@ Nesta atividade, nosso grupo representa a equipe responsável pelo desenvolvimen
 ### Integrantes
 
 * Daniel Nascimento
-* Matheus
 * Nicolas Pereira
